@@ -1,0 +1,89 @@
+{
+    "Name": [],
+    "Body size": [
+        "Pixie-sized",
+        "Gnome-sized",
+        "Dwarf-sized",
+        "Human-sized",
+        "Giant-sized"
+    ],
+
+    "Skin colour": [
+        "Human (Ranging from black to white)",
+        "Red",
+        "Orange",
+        "Yellow",
+        "Green",
+        "Blue",
+        "Violet",
+        "Grey",
+        "Translucent",
+        "Color-shifting"
+    ],
+    "Skin type": [
+        "Skin",
+        "Fur",
+        "Scales",
+        "Tree bark",
+        "Stone"
+    ],
+    "Markings": [
+        "None",
+        "Stripes",
+        "Spots",
+        "Freckles",
+        "Scars",
+        "Vitiligo"
+    ],
+
+    "Ears": [
+        "None",
+        "Normal",
+        "Pointy",
+        "Rabbit-like",
+        "Cat-like",
+        "Bat-like"
+    ],
+    "Eyes (Amount)": [
+        "None",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+    ],
+    "Eye colour": [
+        "Red",
+        "Orange",
+        "Yellow",
+        "Green",
+        "Blue",
+        "Violet",
+        "Grey",
+        "Translucent",
+        "Color-shifting"
+    ],
+
+    "Limbs": [
+        "None",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+    ],
+    "Hands": [
+        "Webbed",
+        "Clawed",
+        "Finned",
+        "Talons",
+        "Fingered",
+        "Hooks",
+        "None",
+        "Hooves"
+    ]
+}
